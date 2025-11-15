@@ -2,8 +2,10 @@
 [![Perl Version](https://img.shields.io/badge/Perl-v5.26.3-blue)](https://www.perl.org/) &nbsp;
 [![Moba Version](https://img.shields.io/badge/MobaXterm-v20.2-blue)](https://mobaxterm.mobatek.net/) &nbsp;
 [![Windows Version](https://img.shields.io/badge/Windows-10-blue)](https://www.microsoft.com/pt-br/software-download/windows10)
+[![DEPRECATED](https://img.shields.io/badge/maintenance%20status-deprecated-red)](https://img.shields.io/badge/maintenance%20status-deprecated-red)
 
-# unofficial_cmd_utmclient_perl
+
+# unofficial_cmd_utmclient_perl [DEPRECATED]
 Unofficial CMD Client for Blockbit® UTM [perl 5]
 
 ## Dependency
